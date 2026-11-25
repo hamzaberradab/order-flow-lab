@@ -12,7 +12,7 @@ aggregated results, including the ones that do not flatter the tools we sell.
 
 | Study | Markets | Sample | Finding | Write-up |
 |---|---|---|---|---|
-| [Do stacked imbalances act as support?](studies/stacked-imbalances/) | NQ, ES 1-minute | 85 sessions, 2,322 zones | On the first return, a stacked zone held about as often as a same-size zone placed at random in the same bar (NQ 48 % vs 50 %, ES 41 % vs 41 %). | [Article](https://barsandticks.com/blog/do-stacked-imbalances-act-as-support) |
+| [What happens when price comes back to a stacked imbalance?](studies/stacked-imbalances/) | NQ, ES 1-minute | 85 sessions, 2,322 zones | On the first return, the bar closed back on the zone side about as often for a stacked zone as for a same-size zone placed at random in the same bar (NQ 48 % vs 50 %, ES 41 % vs 41 %). | [Article](https://barsandticks.com/blog/do-stacked-imbalances-act-as-support) |
 
 ## How the studies work
 

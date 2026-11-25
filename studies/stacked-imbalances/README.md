@@ -1,4 +1,4 @@
-# Do stacked imbalances act as support?
+# What happens when price comes back to a stacked imbalance?
 
 NQ 12-26 (42 sessions, 15 Sep to 13 Nov 2026) and ES 12-26 (43 sessions, 11 Sep to 13 Nov 2026), 1-minute bars with
 Tick Replay. 2,322 stacked imbalance zones: 3 or more consecutive prices with an imbalance on the same side
@@ -8,7 +8,7 @@ Tick Replay. 2,322 stacked imbalance zones: 3 or more consecutive prices with an
 |---|---|---|---|---|
 | Price came back in the same session | 88 % | 88 % | 89 % | 90 % |
 | Median bars before the return | 7 | 7 | 8 | 8 |
-| First return bar closes back on the zone side ("held") | 48 % | 50 % | 41 % | 41 % |
+| First return bar closes back on the zone side | 48 % | 50 % | 41 % | 41 % |
 
 Same picture for buyer and seller stacks, RTH and overnight, 3 levels and 4+ levels: see
 [`results-2026-11-17.txt`](results-2026-11-17.txt).
